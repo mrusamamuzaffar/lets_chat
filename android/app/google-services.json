@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278875593512",
+    "firebase_url": "https://i-chat-instant-default-rtdb.firebaseio.com",
+    "project_id": "i-chat-instant",
+    "storage_bucket": "i-chat-instant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278875593512:android:45e1a5a2c65d16f18e8e1d",
+        "android_client_info": {
+          "package_name": "com.usamamuzaffar.i_chat_instant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278875593512-i2f0fna574cbauv88t3sbihac492quat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYzXavjDY5cvWsmwdIpleA6Xps0B6XnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278875593512-i2f0fna574cbauv88t3sbihac492quat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278875593512-lgd78flp7kjmof9e2kb0ur460d7d6n9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.usamamuzaffar.iChatInstant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

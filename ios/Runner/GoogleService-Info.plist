@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>278875593512-lgd78flp7kjmof9e2kb0ur460d7d6n9o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.278875593512-lgd78flp7kjmof9e2kb0ur460d7d6n9o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuzWvQgS_Tlig1USupOKFDwhfWMR1FVP8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>278875593512</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.usamamuzaffar.iChatInstant</string>
+	<key>PROJECT_ID</key>
+	<string>i-chat-instant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>i-chat-instant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:278875593512:ios:7cb48fdbc6e0ec228e8e1d</string>
+	<key>DATABASE_URL</key>
+	<string>https://i-chat-instant-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
