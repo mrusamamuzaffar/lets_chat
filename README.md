@@ -1,16 +1,26 @@
-# i_chat_instant
+# LetsChat
 
-A Flutter chat app project.
+## Fully Featured Chat App Using Firebase, RiverPod and much more.
 
-## Getting Started
+LetsChat app has a beautiful responsive UI. The app includes many features like User Authentication using email and phone numbers, Online Messaging (Textual, Images, Audios), Status/Stories, Group Chats, Video Calling, and Group Calling. The app is somewhat similar to WhatsApp. LetsChat app built with Riverpod State Management, Firebase for authentication, messaging, and database, Agora streaming platform for video calling and group calling, and many amazing widgets.
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+✔️ Phone Number Authentication <br />
+✔️ 1-1 Chatting with Contacts Only <br />
+✔️ Group Chatting <br />
+✔️ Text, Image, GIF, Audio(Recording), Video & Emoji Sharing <br />
+✔️ Video Calling <br />
+✔️ Online/Offline Status <br />
+✔️ Seen Message <br />
+✔️ Replying to Messages <br />
+✔️ Auto Scroll on New Messages <br />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Tech Used
+# Server: 
+Firebase (Firebase Auth, Firebase Core, Firebase Firestore, Firebase Storage).
+# State Management:
+Riverpod
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
