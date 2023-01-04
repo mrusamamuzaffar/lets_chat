@@ -26,14 +26,14 @@ Firebase (Firebase Auth, Firebase Core, Firebase Firestore, Firebase Storage).
 
 <p align="center">
   <img 
-    width=80%
+    width=100%
     height=40%
     src="https://user-images.githubusercontent.com/101565812/210553736-c326be32-d1a4-47cb-b19c-92bcd8fd2731.png">
 </p>
 
 <p align="center">
   <img 
-    width=4080%
+    width=100%
     height=40%
     src="https://user-images.githubusercontent.com/101565812/210554092-e657d9cc-020a-4bca-9886-6bd9dde5e4ec.png">
 </p>
